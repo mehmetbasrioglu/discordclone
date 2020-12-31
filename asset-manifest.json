@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/discordclone/static/css/main.eb4498fc.chunk.css",
+    "main.js": "/discordclone/static/js/main.3902dc6c.chunk.js",
+    "main.js.map": "/discordclone/static/js/main.3902dc6c.chunk.js.map",
+    "runtime-main.js": "/discordclone/static/js/runtime-main.39a18545.js",
+    "runtime-main.js.map": "/discordclone/static/js/runtime-main.39a18545.js.map",
+    "static/js/2.715f6f6b.chunk.js": "/discordclone/static/js/2.715f6f6b.chunk.js",
+    "static/js/2.715f6f6b.chunk.js.map": "/discordclone/static/js/2.715f6f6b.chunk.js.map",
+    "index.html": "/discordclone/index.html",
+    "static/css/main.eb4498fc.chunk.css.map": "/discordclone/static/css/main.eb4498fc.chunk.css.map",
+    "static/js/2.715f6f6b.chunk.js.LICENSE.txt": "/discordclone/static/js/2.715f6f6b.chunk.js.LICENSE.txt",
+    "static/media/lol.e55325f1.png": "/discordclone/static/media/lol.e55325f1.png",
+    "static/media/nitro.56e3b14a.png": "/discordclone/static/media/nitro.56e3b14a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39a18545.js",
+    "static/js/2.715f6f6b.chunk.js",
+    "static/css/main.eb4498fc.chunk.css",
+    "static/js/main.3902dc6c.chunk.js"
+  ]
+}
